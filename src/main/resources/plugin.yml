@@ -1,0 +1,8 @@
+name: Economy
+version: '1.0-SNAPSHOT'
+main: com.baekspace0.economy.economyPlugin
+api-version: '1.20'
+commands:
+  돈:
+    description: 돈 관련된 명령어를 확인합니다.
+    usage: /돈
